@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="Tooplate">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700" rel="stylesheet">
+
+    <title>BLACK VALLENATO</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+
+    <!-- Additional CSS Files -->
+    <link rel="stylesheet" href="assets/css/fontawesome.css">
+    <link rel="stylesheet" href="assets/css/tooplate-main.css">
+    <link rel="stylesheet" href="assets/css/owl.css">
+
+  </head>
+
+  <body>
+
+    <div class="sequence">
+  
+      <div class="seq-preloader">
+        <svg width="39" height="16" viewBox="0 0 39 16" xmlns="http://www.w3.org/2000/svg" class="seq-preload-indicator"><g fill="#F96D38"><path class="seq-preload-circle seq-preload-circle-1" d="M3.999 12.012c2.209 0 3.999-1.791 3.999-3.999s-1.79-3.999-3.999-3.999-3.999 1.791-3.999 3.999 1.79 3.999 3.999 3.999z"/><path class="seq-preload-circle seq-preload-circle-2" d="M15.996 13.468c3.018 0 5.465-2.447 5.465-5.466 0-3.018-2.447-5.465-5.465-5.465-3.019 0-5.466 2.447-5.466 5.465 0 3.019 2.447 5.466 5.466 5.466z"/><path class="seq-preload-circle seq-preload-circle-3" d="M31.322 15.334c4.049 0 7.332-3.282 7.332-7.332 0-4.049-3.282-7.332-7.332-7.332s-7.332 3.283-7.332 7.332c0 4.05 3.283 7.332 7.332 7.332z"/></g></svg>
+      </div>
+      
+    </div>
+    
+        <div class="logo">
+            <h1>BLACK VALLENATO</h1>
+            
+        </div>
+        <nav>
+          <ul>
+            <li><a href="#1"><img src="assets/images/icon-1.png" alt=""> <em>INICIO</em></a></li>
+            <li><a href="#2"><img src="assets/images/icon-2.png" alt=""> <em>SERVICIOS</em></a></li>
+            <li><a href="#3"><img src="assets/images/icon-3.png" alt=""> <em>PRESENTACIONES</em></a></li>
+            <li><a href="#4"><img src="assets/images/icon-4.png" alt=""> <em>CONTACTOS</em></a></li>
+          </ul>
+        </nav>
+        
+        <div class="slides">
+          <div class="slide" id="1">
+            <div id="slider-wrapper">
+                <div id="image-slider">
+                  <ul>
+                    <li class="active-img">
+                      <div class="slide-caption">
+                        <h2>ORGANIZACION MUSICAL </h2>
+                        <h2>BLACK<br>VALLENATO</h2>
+                      </div>
+                    </li>
+                    <li>
+                      <div class="slide-caption">
+                        
+                        <h2>TODA<br>CLASE DE EVENTOS</h2>
+                      </div>
+                    </li>
+                                    
+                  </ul>
+                </div>
+                <div id="thumbnail">
+                  <ul>
+                    <li class="active"><img src="assets/images/thumb-01.jpg" alt="Earth" /></li>
+                    <li><img src="assets/images/thumb-02.jpg" alt="Meeting" /></li>
+                        
+                  </ul>
+                </div>
+              </div>
+        </div>
+        <div class="slide" id="2">
+            <div class="content second-content">
+                <div id='tabs'>
+                  <ul>
+                    <li><a href='#tabs-1'><span class='fa fa-music'></span></a></li>
+                    <li><a href='#tabs-2'><span class='fa fa-music'></span></a></li>
+                  </ul>
+                  <section class='tabs-content'>
+                    <article id='tabs-1'>
+                      <h1><b>PARRANDAS VALLENATAS</b></h1><br>
+                      
+                      <h3>Black vallenato es una agrupación Colombiana de música vallenata. Fundada en uno de los municipios más bellos de la sabana de (Bogotá) compuesta por una gran mezcla de culturas del norte y el interior del País, grupo de jóvenes llenos de amor por el vallenato y sus letras, dispuestos a llevar felicidad a todo el público en general.
+
+						</h3>
+                    </article>
+                    <article id='tabs-2'>
+                      <h1><b>DESCRIPCION PARRANDAS</b></h1><br>
+                      
+						<h3><b>PARRANDA TIPO SERENATA DOS MUSICOS:</b>Este formato incluye acordeonista y cantante con guitarra   </h3>
+						<h3><b>PARRANDA TIPO SERENATA CINCO MUSICOS:</b> Este formato incluye acordeonista, cantante, guacharaca, cajero y bajista y sonido profecional    </h3>
+						<h3><b>CONCIERTO PARA TARIMAS Y/O LUGARES GRANDES:</b> Este formato incluye (cantante, acordeón, bajo eléctrico, caja, guacharaca, conga, timbal, guitarra, coros)</h3>
+                    </article>
+                   
+                  </section>
+                </div>
+            </div>
+        </div>
+        <div class="slide" id="3">
+            <div class="content third-content">
+				<section class="main">
+			<div >
+			
+			<font color="white"><h2><b>PARRANDAS</b></h2></font><br>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/k6c4nN8xxZM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br><br><br>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/XI6UYxslq3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br><br><br>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/k0OqhbGpp_s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br><br><br>
+			
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/UfST6d77v6U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br><br><br>
+		</div>
+		</section>
+               
+            </div>
+        </div>
+        <div class="slide" id="4">
+            <div class="content fourth-content">
+				
+				<div id="redes">
+				<FONT COLOR="white"><h1><b>Aparta tu cupo</b></h1>
+				<h1><b>Black Vallenato pone a su disposición diferentes formatos musicales enmarcados en el vallenato, de esta manera poder complacer a su público en diferentes eventos públicos y privados, de gran y pequeña magnitud según la necesidad del cliente. Contactanos !!!</b></h2><br><br></FONT></h1>
+				
+					<img src="assets/images/llamada.png"><a href="tel:3016580171">Telefono</a><br><br>
+					<img src="assets/images/whatsapp.png"><a href="https://wa.me/573016580171?text=Hola%20estoy%20intesad@%20en%20una%20acesoria">Whatsapp</a><br><br>
+				    <img src="assets/images/facebook.png"><a href="https://www.facebook.com/Blackvallenato.oficial/">Facebook</a><br><br>
+					<img src="assets/images/instagram.png"><a href="https://www.instagram.com/blackvallenato.oficial?r=nametag">Instagram</a><br><br>
+					<img src="assets/images/youtube.png"><a href="https://youtube.com/channel/UCSyoZlD58UVDlIo9lcCIAsQ">YouTube</a><br><br><br><br><br><br>
+				</div>
+        
+                
+            </div>
+        </div>
+    </div>
+
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+
+    <!-- Additional Scripts -->
+    <script src="assets/js/owl.js"></script>
+    <script src="assets/js/accordations.js"></script>
+    <script src="assets/js/main.js"></script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+
+            // navigation click actions 
+            $('.scroll-link').on('click', function(event){
+                event.preventDefault();
+                var sectionID = $(this).attr("data-id");
+                scrollToID('#' + sectionID, 750);
+            });
+            // scroll to top action
+            $('.scroll-top').on('click', function(event) {
+                event.preventDefault();
+                $('html, body').animate({scrollTop:0}, 'slow');         
+            });
+            // mobile nav toggle
+            $('#nav-toggle').on('click', function (event) {
+                event.preventDefault();
+                $('#main-nav').toggleClass("open");
+            });
+        });
+        // scroll function
+        function scrollToID(id, speed){
+            var offSet = 0;
+            var targetOffset = $(id).offset().top - offSet;
+            var mainNav = $('#main-nav');
+            $('html,body').animate({scrollTop:targetOffset}, speed);
+            if (mainNav.hasClass("open")) {
+                mainNav.css("height", "1px").removeClass("in").addClass("collapse");
+                mainNav.removeClass("open");
+            }
+        }
+        if (typeof console === "undefined") {
+            console = {
+                log: function() { }
+            };
+        }
+    </script>
+
+  </body>
+</html>
